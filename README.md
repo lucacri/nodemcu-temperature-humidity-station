@@ -11,4 +11,4 @@ The NodeMCU needs a DH11/DH22 sensor in order to work. Once configured, browse t
 }
 ```
 
-Using this with my other project (http://github.com/lucacri/homebridge-http-temperature-humidity)[homebridge-http-temperature-humidity] to use it with HomeBridge
+Using this with my other project [homebridge-http-temperature-humidity](http://github.com/lucacri/homebridge-http-temperature-humidity) to use it with HomeBridge
